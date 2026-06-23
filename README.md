@@ -1,16 +1,16 @@
-## Hi there 👋
+## Senior WordPress & Laravel Engineer 👋
 
-<!--
-**ahmadthedev/ahmadthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Ahmad Tahir, a Senior Full-Stack PHP Developer with 9+ years of experience building custom WordPress platforms, advanced WooCommerce solutions, Laravel SaaS applications, APIs, and business automation systems.
 
-Here are some ideas to get you started:
+I work primarily with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- FilamentPHP
+- WordPress
+- WooCommerce
+- MySQL
+- REST APIs
+- TailwindCSS
+- Linux and Nginx
+- Queues, CRON jobs and automation

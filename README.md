@@ -15,18 +15,6 @@ I work primarily with:
 - TailwindCSS
 - Linux and Nginx
 - Queues, CRON jobs and automation
+- CI/CD
 
 Over the years, I’ve worked with international agencies, direct clients, and remote development teams across hundreds of projects.
-
-Selected experience:
-- 9+ years in web development
-- 15,000+ tracked project hours
-- Hundreds of completed projects
-- Extensive WordPress, WooCommerce and Laravel experience
-- Remote collaboration with international teams and agencies
-
-I’m particularly interested in:
-- Complex WordPress and WooCommerce projects
-- Laravel SaaS applications
-- Long-term agency partnerships
-- Incomplete or problematic projects that need senior technical support

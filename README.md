@@ -19,4 +19,4 @@ AI engineering: retrieval, agents and tool use.
 
 ### Elsewhere
 
-[ahmadthedev.com](https://ahmadthedev.com) · [LinkedIn](https://www.linkedin.com/in/ahmadthedev/) · [X](https://twitter.com/ahmadthedev) · hi@ahmadthedev.com
+[ahmadthedev.com](https://ahmadthedev.com) · [LinkedIn](https://www.linkedin.com/in/ahmadthedev/) · [X](https://x.com/ahmadthedev) · hi@ahmadthedev.com
